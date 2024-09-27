@@ -2,3 +2,7 @@
 	path = frontend/e-gammon-order-web
 	url = https://github.com/Gammon-Sistemas/e-gammon-order-web.git
 	branch = main
+[submodule "e-gammon-payment-web"]
+	path = frontend/e-gammon-payment-web
+	url = https://github.com/Gammon-Sistemas/e-gammon-payment-web.git
+	branch = main
