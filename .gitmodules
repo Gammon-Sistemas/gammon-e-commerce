@@ -1,0 +1,3 @@
+[submodule "order/frontend/order-web"]
+	path = order/frontend/order-web
+	url = https://github.com/Gammon-Sistemas/e-gammon-order-web.git
