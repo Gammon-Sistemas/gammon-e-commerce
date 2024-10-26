@@ -1,3 +1,6 @@
+# Backend
+
+# Frontend
 [submodule "e-gammon-order-web"]
 	path = frontend/e-gammon-order-web
 	url = https://github.com/Gammon-Sistemas/e-gammon-order-web.git
@@ -9,4 +12,8 @@
 [submodule "e-gammon-delivery-web"]
 	path = frontend/e-gammon-delivery-web
 	url = https://github.com/Gammon-Sistemas/e-gammon-delivery-web.git
+	branch = main
+[submodule "archetype"]
+	path = backend/archetype
+	url = https://github.com/Gammon-Sistemas/archetype.git
 	branch = main
